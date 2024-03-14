@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/vandersoncr/vandersoncr/blob/output/github-contribution-grid-snake.svg)
 
 <<h1> Olá, me chamo Vanderson Cardoso! </h1>
 <h2> ## Bem vindo ao meu perfil GitHub 👋 </h2>
@@ -27,4 +27,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vandersoncr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/vandersoncr/vandersoncr/blob/output/github-contribution-grid-snake.svg)
+
