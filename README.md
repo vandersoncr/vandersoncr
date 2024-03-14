@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/vandersoncr/vandersoncr/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/vandersoncr/vandersoncr/blob/output/github-contribution-grid-snake.svg)
 
 <<h1> Olá, me chamo Vanderson Cardoso! </h1>
 <h2> ## Bem vindo ao meu perfil GitHub 👋 </h2>
