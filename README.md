@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Testes de Software na Fundação CERTI;
 - 🌱 Estou me especializando na área com o curso de Especialização em Engenharia de Software com Enfâze em Testes;
-- 👯 No momento estou apredendo sobre programação em JavaScript e Python, e atumação de testes com Robot e CYpress.
+- 👯 No momento estou apredendo sobre programação em JavaScript e Python, e automação de testes com Robot e CYpress.
 
 
  ## Contatos:
