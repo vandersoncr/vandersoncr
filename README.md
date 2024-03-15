@@ -1,10 +1,13 @@
 <<h1> Olá, me chamo Vanderson Cardoso! </h1>
+
  
 <h2> ## Bem vindo ao meu perfil GitHub 👋 </h2>
+
 
 - 🔭 Atualmente estou trabalhando como Analista de Testes de Software na Fundação CERTI;
 - 🌱 Estou me especializando na área com o curso de Especialização em Engenharia de Software com Enfâze em Testes;
 - 👯 No momento estou apredendo sobre programação em JavaScript e Python, e atumação de testes com Robot e CYpress.
+
 
  ## Contatos:
 
@@ -41,8 +44,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandersoncr&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=vandersoncr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/vandersoncr/vandersoncr/blob/output/github-contribution-grid-snake.svg)
+ 
  
 
 
