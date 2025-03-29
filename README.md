@@ -1,18 +1,33 @@
-<h1> Olá, eu sou Vanderson Cardoso! 👋 </h1>
+<h1 align="center"> Olá, eu sou Vanderson Cardoso! 👋 </h1>
 
-<h2> Sobre Mim </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20Engineer-Test%20Automation-blue?style=flat-square&logo=testing-library" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Bitbucket%20Pipelines-blue?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/DevSecOps-Security%20Testing%20%7C%20SonarQube-orange?style=flat-square&logo=owasp" />
+</p>
 
-- 🎓 Graduado em Gestão da Tecnologia da Informação;
-- 💼 Atualmente trabalhando como Analista de Testes de Software na Fundação CERTI;
-- 🌱 Especializando em Engenharia de Software com ênfase em Testes.
+## 🚀 Sobre Mim
 
+🎓 **Formação:** Graduado em Tecnologia da Informação  
+💼 **Atuação Atual:** Analista de Testes de Software na Fundação CERTI  
+🌱 **Especialização:** Segurança e Inteligência Cibernética  
+🔍 **Interesses:** Testes Manuais e Automatizados, Segurança em Software, CI/CD e DevSecOps  
 
-<h2> Aprendendo Atualmente </h2>
+---
 
-- 📚 Aprimorando habilidades em JavaScript e Python para melhorar minhas skills em programação.
-- 🤖 Dominando a automação de testes com Robot e Cypress.
+## 💡 Habilidades Técnicas
 
-<h2> Contatos </h2>
+✅ **Linguagens de Programação:** JavaScript, Python  
+✅ **Testes de Software:** Testes Manuais e Automatizados (Web, Mobile, API)  
+✅ **Automação de Testes:** Robot Framework, Cypress, Selenium  
+✅ **Validação de APIs:** Postman, Insomnia, SoapUI (RESTful & GraphQL)  
+✅ **Testes de Performance:** JMeter  
+✅ **Versionamento de Código:** Git & HitHub, Bitbucket e GitLab  
+✅ **CI/CD & DevOps:** GitHub Actions, Bitbucket Pipelines, Cypress Cloud, Docker  
+✅ **Segurança & Qualidade:** SonarQube, OWASP ZAP  
+✅ **Metodologia Ágil:** TDD, BDD, Scrum e Kanban  
+
+<h2> Conecte-se Comigo   </h2>
 
 <div>
   <a href="https://instagram.com/van_kardoso" target="_blank">
@@ -59,3 +74,6 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=vandersoncr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </div>
+---
+
+✨ *“A qualidade não é um ato, é um hábito.”* – Aristóteles  
